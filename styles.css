@@ -1,4 +1,18 @@
+/* SDK Document */
+
 vd-document::part(instructions_slide_box_title) {
     color: #ff0000 ;
     background-color: #ff0000;
+}
+
+vd-document::part(display_message_container) {
+  background-color: #eb3d1e;
+}
+
+vd-document::part(display_message_text) {
+  color: #ffffff;
+}
+
+vd-document::part(head_steps) {
+  color: #ffffff;
 }
