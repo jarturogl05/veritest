@@ -4,7 +4,7 @@ vd-document::part(instructions_slide_box_title) {
     color: black;
 }
 
-vd-document::part(instructions_slide_box_title) {
+vd-document::part(instructions_slide_button) {
     background-color: #039BE5;
 }
 
