@@ -25,6 +25,11 @@ vd-document::part(review_image_message_buttons_continue) {
     color: #FFFFFF;
 }   
 
+
+vd-selfie::part(instructions_slide_box_title) {
+    color: black;
+}
+
 vd-selfie::part(instructions_slide_button) {
     background-color: #039BE5;
 }
