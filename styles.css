@@ -21,19 +21,19 @@ vd-document::part(review_image_message_buttons_continue) {
     color: #FFFFFF;
 }   
 
-vd-document::part(instructions_slide_button) {
+vd-selfie::part(instructions_slide_button) {
     background-color: #039BE5;
 }
 
-vd-document::part(instructions_slide_button_prev) {
+vd-selfie::part(instructions_slide_button_prev) {
     color: #039BE5;
 }
 
-vd-document::part(instructions_slide_button_next	) {
+vd-selfie::part(instructions_slide_button_next	) {
     color: #039BE5;
 }
 
-vd-document::part(instructions_slide_dots	) {
+vd-selfie::part(instructions_slide_dots	) {
     background: #039BE5;
 }
 
