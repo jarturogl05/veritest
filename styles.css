@@ -29,7 +29,11 @@ vd-document::part(review_image_message_buttons_continue) {
     color: #FFFFFF;
     text-transform: uppercase;
 
-}   
+}
+
+vd-document::part(capture_display_message_text) {
+    color: #039BE5;;
+}
 
 
 vd-selfie::part(instructions_slide_box_title) {
@@ -55,4 +59,9 @@ vd-selfie::part(instructions_slide_button_next	) {
 vd-selfie::part(instructions_slide_dots	) {
     background: #039BE5;
 }
+
+vd-selfie::part(capture_display_message_text) {
+    color: #039BE5;;
+}
+
 
