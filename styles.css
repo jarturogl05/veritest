@@ -10,6 +10,8 @@ vd-document::part(instructions_slide_box_title) {
 
 vd-document::part(instructions_slide_button) {
     background-color: #039BE5;
+    text-transform: uppercase;
+
 }
 
 vd-document::part(review_image_message_buttons_repeat) {
@@ -17,12 +19,16 @@ vd-document::part(review_image_message_buttons_repeat) {
     color: #039BE5;
     border-style: solid;
     border-color: #039BE5;
+    text-transform: uppercase;
+
 }      
 
 
 vd-document::part(review_image_message_buttons_continue) {
     background-color: #039BE5;
     color: #FFFFFF;
+    text-transform: uppercase;
+
 }   
 
 
@@ -32,10 +38,14 @@ vd-selfie::part(instructions_slide_box_title) {
 
 vd-selfie::part(instructions_slide_button) {
     background-color: #039BE5;
+    text-transform: uppercase;
+
 }
 
 vd-selfie::part(instructions_slide_button_prev) {
     color: #039BE5;
+    text-transform: uppercase;
+
 }
 
 vd-selfie::part(instructions_slide_button_next	) {
