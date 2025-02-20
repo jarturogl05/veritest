@@ -64,4 +64,9 @@ vd-selfie::part(capture_display_message_text) {
     color: #039BE5;;
 }
 
+vd-selfie::part(capture_glowing_outline_top_message) {
+    font-weight: bold;
+}
+
+
 
